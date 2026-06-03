@@ -223,6 +223,7 @@ section { padding: 56px 0; }
 .badge.booked   { background: #e3f0e9; color: #2f6b48; }
 .badge.changed  { background: #fdeede; color: #b5772a; }
 .badge.confirmed{ background: #e1eef5; color: var(--sea); }
+.badge.pending  { background: #fdeede; color: #b5772a; }
 
 .card .details {
   padding: 0 20px 20px 100px; color: var(--muted); font-size: .95rem;
